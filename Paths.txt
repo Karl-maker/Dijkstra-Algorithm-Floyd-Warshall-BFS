@@ -1,0 +1,9 @@
+Green Street, King Street, 4
+Green Street, Austin Street, 2
+King Street, Austin Street, 1
+King Street, Abercrombie Street, 5
+Austin Street, North Street, 10
+Abercrombie Street, Austin Street, 8
+Abercrombie Street, North Street, 2
+Abercrombie Street, Ana Street, 6
+North Street, Ana Street, 5
